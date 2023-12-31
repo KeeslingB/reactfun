@@ -1,21 +1,14 @@
 
 
+
+
 export default function Body() {
 
 
   return (
     
     <div>
-      <p>Body Here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
-      <p>Body also here</p>
+      <p>main body of project?</p>
     </div>
   )
 }
